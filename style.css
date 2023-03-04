@@ -11,7 +11,7 @@ place-items: center;
     width: 100%;
 }
 
-.card{
+main{
     border-style:solid;
     border-radius: 15px;
     border-width: 10px;
